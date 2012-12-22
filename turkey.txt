@@ -1,0 +1,650 @@
+Adjutant
+Akar
+Akbaş
+Akhisar
+Aksaz
+Akçakoca
+Akçay
+Alanya
+Albatros
+Albay Hakkı Burak
+Almaz
+Alster
+Amasra
+Anafartalar
+Anamur
+Antalya
+Argonauta
+Asheville
+Atak
+Atmaca
+Atılay
+Auk
+Ay
+Aydın
+Ayvalık
+Bafra
+Balao
+Bandırma
+Bangor
+Bartın
+Bathurst
+Batıray
+Bay
+Bayraktar
+Bergall
+Beykoz
+Beylerbeyi
+Biga
+Binbaşı Sadettin Gürcan
+Birinci İnönü
+Blairmore
+Blower
+Blueback
+Bluebird
+Boarfish
+Bodensee
+Bodrum
+Bora
+Bornova
+Bozcaada
+Brill
+Broome
+Bumper
+Burak Reis
+Burakreis
+Caiman
+Cape
+Catherine
+Cerbe
+Chance
+Chanticleer
+Chiwaukum
+Chub
+Circe
+Cobbler
+Comox
+Corporal
+Darıca
+De Panne
+Defiance
+Demirhisar
+Denizkuşu
+Detmold
+Dolunay
+Doğan
+Doğanay
+Draç
+Dumlupınar
+Eceabat
+Edincik
+Edremit
+Elbe
+Elfreda
+Enez
+Engin
+Entemedor
+Erdek
+Erdemit
+Erdemli
+Ereğli
+Ertuğrul
+Escape
+Fatsa
+Fethiye
+Finike
+Flaster
+Fort William
+Foça
+Frankenthal
+Frolic
+Gaspe
+Gawler
+Geraldton
+Girne
+Grecian
+Greenlet
+Gudgeon
+Guitarro
+Gurbet
+Hameln
+Hamidiye
+Hamit Hacı
+Hammerhead
+Hisar
+Hugin
+Isar
+Jaguar
+Kalkan
+Karadeniz Ereğlisi
+Karamürsel
+Karamürselbey
+Karayel
+Kartal
+Kas
+Kasırga
+Kavak
+Kemer
+Kenora
+Kentville
+Kerempe
+Kilimli
+Kirte
+Kozlu
+Koçhisar
+Kuşadası
+Larch
+Launceston
+Lazaga
+Mahone
+Mapiro
+Marmaris
+Martı
+Mecidiye
+Medicine Hat
+Meltem
+Mercure
+Meriç
+Mero
+Mersin
+Mordoğan
+Mosel
+Murat Reis
+Muratreis
+Musul
+Nasty
+Navajo
+Nipigon
+Nusret
+Oruç Reis
+Oruçreis
+Osman Gazi
+Passau
+Patroclus
+Pavot
+Pelikan
+Penguin
+Pique
+Pirie
+Pirireis
+Pomfret
+Powhatan
+Poyraz
+Preveze
+Pusula Dergisi
+Razorback
+Redwing
+Renoncule
+Rhein
+Rice County
+Ruhr
+Safeguard
+Sakarya
+Saldıray
+Saline County
+Samsun
+Sancaktar
+Sapanca
+Sarnia
+Saros
+Sarucabey
+Sarıyer
+Sea Fox
+Seddülbahir
+Selçuk
+Serdar
+Seyhan
+Seymen
+Siegen
+Silifke
+Sinop
+Sioux
+Sister Centaure
+Sivrihisar
+Storch
+Sultanhisar
+Surprise
+Swift Current
+Tang
+Tattoo
+Tayfun
+Taşkızak
+Tekirdağ
+Tenace
+Tench
+Terme
+Terrebonne Parish
+Thornback
+Threadfin
+Tiger
+Tirebolu
+Tjeld
+Tourmaline
+Trabzon
+Trinity
+Trutta
+Tufan
+Turgut Reis
+Turgutreis
+Ulabat
+Uluç Ali Reis
+Uluçalireis
+Ungava
+Van
+Vegesack
+Vettor Pisani
+Volkan
+Westchester County
+Westmount
+Windham County
+Wolf
+Worms
+Yarbay Kudret Güngör
+Yarhisar
+Yunus
+Yüzbaşı İhsan Tolunay
+Zobel
+Abdul Kadir
+Abdül Aziz
+Abdül Hamid
+Abdül Kadir
+Abdül Mecid
+Abdülhamid
+Agincourt
+Akhisar
+Akka
+Alemdar
+Aleppo
+Alos
+Alpagot
+Amalie
+Ankara
+Antalya
+Aphroessa
+Ararat
+Arkadi
+Arkadion
+Arslan
+Artigliere
+Asır
+Avizo
+Avnillah
+Avnillâh
+Aydın
+Aydın Reis
+Ayintab
+Aynalı Kavak
+Aynalıkavak
+Ayıntab
+Aziziye
+Babıl
+Bafra
+Bahr-i Sefid
+Bar
+Barbaros Hayreddin
+Bayraklı
+Belleisle
+Berk
+Berk Efşân
+Bespokoyny
+Beyerut
+Beylerbeyi
+Beyrut
+Beyrût
+Bezm-i Âlem
+Biafaret
+Bordeaux
+Bornova
+Bospordok
+Boyana
+Bozcaada
+Bozhie Predvyedenie
+Brandenburg
+Breslau
+Brune
+Burak Reis
+Burc-ı Zafer
+Burhaneddin
+Burhâneddîn
+Bursa
+Bystry
+Bârika-i Zafer
+Capitano Verri
+Castor
+Cemil
+Cibali
+Cidde
+Cunfida
+Demirhisar
+Denizaltı
+Dere
+Dimyâd
+Diwân
+Dofen
+Dolmabahçe
+Doğan
+Drama
+Draç
+Dream
+Durandal
+Edirne
+Ejder
+Elena
+Emin
+Eole
+Ereğli
+Erin
+Ertuğrul
+Eser-i Cedîd
+Eser-i Hayır
+Eser-i Nusret
+Eser-i Nuzhet
+Eser-i Terakki
+Eser-i Ticaret
+Express
+Fatih
+Fatihiye
+Fauvette
+Fazlullah
+Fazullah
+Feth-i Bülend
+Feth-ül İslâm
+Fethiye
+Fettâh
+Feyyaz
+Feyz-i Cihat
+Feyzâ-i Bahri
+Feyzâ-i Bahrî
+Firefly
+Flying Coot
+Foça
+France
+Frederica
+Fuad
+Galata
+Gambot
+Gayret
+Gazal
+Gazi Osman
+Gemlik
+Geyret
+Gilyum
+Giresun
+Girit
+Goeben
+Goliath
+Greyhound
+Haliç
+Hallebarde
+Hamidabad
+Hamidiye
+Hamidâbad
+Hanya
+Harlequin
+Hayreddin
+Heybet Nümâ
+Hizber
+Hüma-i Pervaz
+Hüma-i Tevfik
+Hıfz-ı Rahmân
+Hızır Reis
+Ibrahimiye
+Impavido
+Ioann Predtecha
+Islahat
+Istanbul
+Ivernia
+Izyaslav
+Jerome
+Justice
+Kabataş
+Kahira
+Kalyon
+Kandiya
+Kaptan Cavit
+Kaptan Nusret
+Karakol gemisi
+Kars
+Kastamonu
+Kasım Paşa
+Katerin
+Kemal Reis
+Kervân-i Bahri
+Kervân-i Bahrî
+Kilid Bahir
+Kiyoçya
+Korvet
+Kosova
+Kruvazör
+Kurt
+Kâ'id-i Zafer
+König Wilhelm
+Kılıç Ali
+Lady Gipsy
+Lastka
+Leonida
+Leontii Mutchenik
+Libia
+Livaerpool
+Lobelia
+Lutèce
+Lûtf-i Celîl
+Magdeburg
+Maggie Grech
+Mahabbet
+Mahmudiye
+Mahmûdiy
+Mahmûdiye
+Malakof
+Malatya
+Maltepe
+Mansûre
+Mantis
+Maria Magadalina
+Marmara
+Marmaris
+Mary Louise
+Mecidiye
+Medar-i Tevfik
+Medar-i Ticaret
+Medar-i Zafer
+Medvet Resan
+Mehmed Selîm
+Mekke
+Memduhiye
+Memdûhiye
+Memo
+Menderes
+Menfaat
+Meriç
+Mesaha gemisi
+Mesir-i Bahri
+Mesudiye
+Mesut
+Mesûdiye
+Midilli
+Mirat-ı Zafer
+Mithat Paşa
+Mubir-i Sürur
+Mudanya
+Mudanya Zafer
+Muha
+Muhbir-i Sürûr
+Muhrip
+Mukaddeme-i Hayır
+Mukaddeme-i Nusret
+Mukaddeme-i Şeref
+Mukkademe-i Hayir
+Murat Ayanoğlu
+Muzaffer
+Muâvenet-i Millîye
+Muîn-i Rahmet
+Müjde Resân'
+Müstecib Onbaşı
+Müverrid-i Nusret
+Nacm-i Zafer
+Napier
+Nara
+Necm-i Feşân
+Necm-i Şeref
+Necm-i Şevket
+Nedim
+Nehir Gambotu
+Nesîm-i Zafer
+Nevşehir
+New Century
+New Enterprise
+Nikopol
+Nikopolis
+Nilüfer
+Nimet
+Nizâmiye
+Nusr-i Hüdâ
+Nusret
+Nusretiye
+Nâsr-ül Azîz
+Nâvek-i Bahrî
+Odin
+Oltanıca
+Ordu
+Orhâniye
+Orion
+Ortadoğu
+Osmaniye
+Osmâniye
+Paris
+Peleng-i Deryâ
+Pervîn
+Pesendire
+Peyk
+Peyk-i Meserret
+Peyk-i Nusret
+Peyk-i Ticaret
+Peyk-i Zafer
+Peyk-i Şeref
+Peyk-i Şevket
+Pionier
+Pir-i Levend
+Plevne
+Podgoriçe
+Pollux
+Preveze
+Prut
+Pursut
+Rachid
+Refahiye
+Rehber-i Tevfik
+Reshadieh
+Resmo
+Reşadiye
+Reşid
+Reşit Paşa
+Rodos
+Ron
+Rosina
+Ruby
+Run Her
+Rusçuk
+Sa'na
+Safiye
+Sagir
+Saheddin
+Sahir
+Sakız
+Samsun
+San Giuseppe
+San Salvadore
+Santa Croce
+Sarkiye
+Satvet
+Scirocco
+Scorpion
+Sedd-ül Bahir
+Sehber
+Selimiye
+Selmân-ı Pâk
+Selânik
+Semendire
+Serafeddin
+Seyf-i Bahrî
+Seyfî
+Seyyâr
+Shannon
+Silistre
+Sinop
+Siri ül Türk
+Sistovo
+Sivrihisar
+Suda
+Sudaver
+Sulhiye
+Sultan Osman I
+Sultanhisar
+Sultân Osmân-ı Evvel
+Sultânhisar
+Sultâniye
+Superb
+Suriye
+Sverige
+Taif
+Tair-i Bahri
+Talia
+Tarantula
+Tatoi
+Tayyâr
+Taşköprü
+Teshıla
+Tevfik
+Tevfikiye
+Teşrifiye
+Teşvikiye
+Thetis
+Timsah
+Tokad
+Tophane
+Totoi
+Trablus
+Trablusgarb
+Trabzon
+Tuna
+Turgut Reis
+Turquoise
+Tâir-i Bahrî
+Tîr-i Zafer
+Urfa
+Urla
+Utarit
+Uyanık
+Vapur
+Varese
+Varna
+Vasıta-i Ticaret
+Vesile-i Ticaret
+Vesîle-i Nusret
+Warren Hastings
+Warship International
+Warwick Castle
+Weissenburg
+Weißenburg
+Yalı Köşkü
+Yardım
+Yarhisar
+Yat
+Yavuz
+Yavuz Selim
+Yavuz Sultan Selim
+Yavûz Sultân Selîm
+Yenikapı
+Yozgat
+Yâver-i Tevfik
+Ziver-i Deryâ
+Zuhaf
+Zuhâf
+Zır-i Cihat
+Zırhlı Duba
+Âsâr-ı Tevfik
+Îsâ Reis
+Ömer Paşa
+Şahin-i Deryâ
+Şiar-i Nusret
+Şihâb-ı Bahrî
